@@ -1,6 +1,8 @@
 # Autonomous Robot Navigation System - Level 1
 
 This project implements an autonomous robot navigation system that can navigate to goals in different corners of a simulated environment while avoiding obstacles using computer vision techniques.
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/a4480f02-a66b-4d84-8099-2cc30cf5a126" />
+
 
 ## Features
 
